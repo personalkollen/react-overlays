@@ -1,8 +1,11 @@
 {
-  "name": "react-overlays",
-  "version": "1.2.0",
+  "name": "react-overlays-pk",
+  "version": "1.2.1",
   "description": "Utilities for creating robust overlay components",
-  "author": "Jason Quense <monastic.panic@gmail.com>",
+  "author": {
+    "name": "Niclas Olofsson",
+    "url": "https://github.com/nip3o"
+  },
   "repository": "react-bootstrap/react-overlays",
   "license": "MIT",
   "main": "lib/index.js",
