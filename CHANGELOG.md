@@ -1,3 +1,19 @@
+# [1.3.0](https://github.com/react-bootstrap/react-overlays/compare/v1.2.0...v1.3.0) (2019-06-04)
+
+
+### Bug Fixes
+
+* Make sure menu ref is set before using contains ([#291](https://github.com/react-bootstrap/react-overlays/issues/291)) ([8caa423](https://github.com/react-bootstrap/react-overlays/commit/8caa423))
+
+
+### Features
+
+* Remove affix support ([#287](https://github.com/react-bootstrap/react-overlays/issues/287)) ([cae4df8](https://github.com/react-bootstrap/react-overlays/commit/cae4df8))
+
+
+
+
+
 # [1.2.0](https://github.com/react-bootstrap/react-overlays/compare/v1.1.2...v1.2.0) (2019-03-07)
 
 
